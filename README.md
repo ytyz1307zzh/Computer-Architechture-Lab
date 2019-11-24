@@ -6,3 +6,5 @@ Labs of Computer Architechture.
 ``riscv_multicycle_sim``: A multi-cycle RISC-V simulator.
 
 ``riscv_pipeline_sim``: A pipeline RISC-V simulator.
+
+``simple_cache_sim``: A single-level cache simulator.

@@ -8,3 +8,5 @@ Labs of Computer Architechture.
 ``riscv_pipeline_sim``: A pipeline RISC-V simulator.
 
 ``simple_cache_sim``: A single-level cache simulator.
+
+``optim_cache_sim``: A two-level cache simulator with optimization metrics.

@@ -57,7 +57,8 @@ The frequency of CPU and memory are set to 2Ghz. The replacement policy of cache
    -l			   workset length (default: 50)
    -p			   the number of prefetch lines (default: 4)
    -s			   prefetch stride (default: 16)
-   --no_optim	disable the optimization metrics used in this simulator, i.e., workset policy and prefetch. Instead, LRU will be used as replacement policy. This option can be used to testify the efficacy of these optimization metrics.
+   --no_optim	disable the optimization metrics used in this simulator, i.e., workset policy and prefetch. Instead, LRU will be used as
+               replacement policy. This option can be used to testify the efficacy of these optimization metrics.
    ```
 
    P.S. This simulator uses C function ``getopt`` to read command-line arguments. Therefore, in order to input optional short arguments, *i.e.*, ``-l``, ``-p`` or ``-s``, you should omit the blank space between the argument label and its value. That is to say, type ``-l50`` instead of ``-l 50``.

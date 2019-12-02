@@ -1,0 +1,1860 @@
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 500
+miss rate: 0.000061
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 602
+access time: 6020
+miss count: 410
+miss rate: 0.681063
+replacement count: 0
+prefetch count: 602
+
+Main Memory:
+access count: 562
+access time: 56200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24496620
+AMAT:3.00479
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 750
+miss rate: 0.000092
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 968
+access time: 9680
+miss count: 374
+miss rate: 0.386364
+replacement count: 0
+prefetch count: 968
+
+Main Memory:
+access count: 477
+access time: 47700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24491780
+AMAT:3.00448
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 951
+miss rate: 0.000117
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1219
+access time: 12190
+miss count: 364
+miss rate: 0.298605
+replacement count: 0
+prefetch count: 1219
+
+Main Memory:
+access count: 481
+access time: 48100
+
+Access Count: 8144800
+Total Access Time (in cycles): 24494690
+AMAT:3.00465
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1150
+miss rate: 0.000141
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1482
+access time: 14820
+miss count: 359
+miss rate: 0.242240
+replacement count: 0
+prefetch count: 1482
+
+Main Memory:
+access count: 472
+access time: 47200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24496420
+AMAT:3.00483
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1300
+miss rate: 0.000160
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1663
+access time: 16630
+miss count: 358
+miss rate: 0.215274
+replacement count: 0
+prefetch count: 1663
+
+Main Memory:
+access count: 470
+access time: 47000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24498030
+AMAT:3.00503
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1550
+miss rate: 0.000190
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1985
+access time: 19850
+miss count: 369
+miss rate: 0.185894
+replacement count: 0
+prefetch count: 1985
+
+Main Memory:
+access count: 484
+access time: 48400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24502650
+AMAT:3.00544
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1800
+miss rate: 0.000221
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2331
+access time: 23310
+miss count: 377
+miss rate: 0.161733
+replacement count: 0
+prefetch count: 2331
+
+Main Memory:
+access count: 492
+access time: 49200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24506910
+AMAT:3.00578
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2000
+miss rate: 0.000246
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2549
+access time: 25490
+miss count: 366
+miss rate: 0.143586
+replacement count: 0
+prefetch count: 2549
+
+Main Memory:
+access count: 514
+access time: 51400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24511290
+AMAT:3.00598
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2200
+miss rate: 0.000270
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2892
+access time: 28920
+miss count: 367
+miss rate: 0.126902
+replacement count: 0
+prefetch count: 2892
+
+Main Memory:
+access count: 522
+access time: 52200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24515520
+AMAT:3.00613
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2400
+miss rate: 0.000295
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3178
+access time: 31780
+miss count: 384
+miss rate: 0.120831
+replacement count: 0
+prefetch count: 3178
+
+Main Memory:
+access count: 546
+access time: 54600
+
+Access Count: 8144800
+Total Access Time (in cycles): 24520780
+AMAT:3.00651
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2600
+miss rate: 0.000319
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3455
+access time: 34550
+miss count: 479
+miss rate: 0.138640
+replacement count: 0
+prefetch count: 3455
+
+Main Memory:
+access count: 723
+access time: 72300
+
+Access Count: 8144800
+Total Access Time (in cycles): 24541250
+AMAT:3.00762
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2800
+miss rate: 0.000344
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3700
+access time: 37000
+miss count: 482
+miss rate: 0.130270
+replacement count: 0
+prefetch count: 3700
+
+Main Memory:
+access count: 729
+access time: 72900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24544300
+AMAT:3.00792
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2955
+miss rate: 0.000363
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3862
+access time: 38620
+miss count: 481
+miss rate: 0.124547
+replacement count: 0
+prefetch count: 3862
+
+Main Memory:
+access count: 745
+access time: 74500
+
+Access Count: 8144800
+Total Access Time (in cycles): 24547520
+AMAT:3.00815
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 3200
+miss rate: 0.000393
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 4187
+access time: 41870
+miss count: 495
+miss rate: 0.118223
+replacement count: 0
+prefetch count: 4187
+
+Main Memory:
+access count: 757
+access time: 75700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24551970
+AMAT:3.00857
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 3400
+miss rate: 0.000417
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 4537
+access time: 45370
+miss count: 585
+miss rate: 0.128940
+replacement count: 0
+prefetch count: 4537
+
+Main Memory:
+access count: 859
+access time: 85900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24565670
+AMAT:3.00956
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 500
+miss rate: 0.000061
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 652
+access time: 6520
+miss count: 365
+miss rate: 0.559816
+replacement count: 0
+prefetch count: 652
+
+Main Memory:
+access count: 468
+access time: 46800
+
+Access Count: 8144800
+Total Access Time (in cycles): 24487720
+AMAT:3.00405
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 700
+miss rate: 0.000086
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 846
+access time: 8460
+miss count: 348
+miss rate: 0.411348
+replacement count: 0
+prefetch count: 846
+
+Main Memory:
+access count: 467
+access time: 46700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24489560
+AMAT:3.00439
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 950
+miss rate: 0.000117
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1184
+access time: 11840
+miss count: 373
+miss rate: 0.315034
+replacement count: 0
+prefetch count: 1184
+
+Main Memory:
+access count: 492
+access time: 49200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24495440
+AMAT:3.00484
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1150
+miss rate: 0.000141
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1416
+access time: 14160
+miss count: 353
+miss rate: 0.249294
+replacement count: 0
+prefetch count: 1416
+
+Main Memory:
+access count: 509
+access time: 50900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24499460
+AMAT:3.00493
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1300
+miss rate: 0.000160
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1672
+access time: 16720
+miss count: 373
+miss rate: 0.223086
+replacement count: 0
+prefetch count: 1672
+
+Main Memory:
+access count: 530
+access time: 53000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24504120
+AMAT:3.00516
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1550
+miss rate: 0.000190
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1984
+access time: 19840
+miss count: 374
+miss rate: 0.188508
+replacement count: 0
+prefetch count: 1984
+
+Main Memory:
+access count: 538
+access time: 53800
+
+Access Count: 8144800
+Total Access Time (in cycles): 24508040
+AMAT:3.00549
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1800
+miss rate: 0.000221
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2302
+access time: 23020
+miss count: 371
+miss rate: 0.161164
+replacement count: 0
+prefetch count: 2302
+
+Main Memory:
+access count: 552
+access time: 55200
+
+Access Count: 8144800
+Total Access Time (in cycles): 24512620
+AMAT:3.00577
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2000
+miss rate: 0.000246
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2518
+access time: 25180
+miss count: 366
+miss rate: 0.145353
+replacement count: 0
+prefetch count: 2518
+
+Main Memory:
+access count: 527
+access time: 52700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24512280
+AMAT:3.00602
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2200
+miss rate: 0.000270
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2763
+access time: 27630
+miss count: 365
+miss rate: 0.132103
+replacement count: 0
+prefetch count: 2763
+
+Main Memory:
+access count: 530
+access time: 53000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24515030
+AMAT:3.00627
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2491
+miss rate: 0.000306
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3183
+access time: 31830
+miss count: 380
+miss rate: 0.119384
+replacement count: 0
+prefetch count: 3183
+
+Main Memory:
+access count: 550
+access time: 55000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24521230
+AMAT:3.00671
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 3323
+miss rate: 0.000408
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 4279
+access time: 42790
+miss count: 526
+miss rate: 0.122926
+replacement count: 0
+prefetch count: 4279
+
+Main Memory:
+access count: 756
+access time: 75600
+
+Access Count: 8144800
+Total Access Time (in cycles): 24552790
+AMAT:3.0091
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 34046
+miss rate: 0.004180
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 44982
+access time: 449820
+miss count: 1065
+miss rate: 0.023676
+replacement count: 0
+prefetch count: 44982
+
+Main Memory:
+access count: 1525
+access time: 152500
+
+Access Count: 8144800
+Total Access Time (in cycles): 25036720
+AMAT:3.0517
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 318917
+miss rate: 0.039156
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 424890
+access time: 4248900
+miss count: 2636
+miss rate: 0.006204
+replacement count: 0
+prefetch count: 424890
+
+Main Memory:
+access count: 3635
+access time: 363500
+
+Access Count: 8144800
+Total Access Time (in cycles): 29046800
+AMAT:3.41585
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 259184
+miss rate: 0.031822
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 344989
+access time: 3449890
+miss count: 2090
+miss rate: 0.006058
+replacement count: 0
+prefetch count: 344989
+
+Main Memory:
+access count: 2943
+access time: 294300
+
+Access Count: 8144800
+Total Access Time (in cycles): 28178590
+AMAT:3.3375
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 229256
+miss rate: 0.028148
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 304974
+access time: 3049740
+miss count: 2229
+miss rate: 0.007309
+replacement count: 0
+prefetch count: 304974
+
+Main Memory:
+access count: 3131
+access time: 313100
+
+Access Count: 8144800
+Total Access Time (in cycles): 27797240
+AMAT:3.30205
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 451
+miss rate: 0.000055
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 551
+access time: 5510
+miss count: 351
+miss rate: 0.637024
+replacement count: 0
+prefetch count: 551
+
+Main Memory:
+access count: 450
+access time: 45000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24484910
+AMAT:3.00408
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 650
+miss rate: 0.000080
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 785
+access time: 7850
+miss count: 347
+miss rate: 0.442038
+replacement count: 0
+prefetch count: 785
+
+Main Memory:
+access count: 453
+access time: 45300
+
+Access Count: 8144800
+Total Access Time (in cycles): 24487550
+AMAT:3.00433
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 950
+miss rate: 0.000117
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1138
+access time: 11380
+miss count: 355
+miss rate: 0.311951
+replacement count: 0
+prefetch count: 1138
+
+Main Memory:
+access count: 509
+access time: 50900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24496680
+AMAT:3.0048
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1150
+miss rate: 0.000141
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1516
+access time: 15160
+miss count: 372
+miss rate: 0.245383
+replacement count: 0
+prefetch count: 1516
+
+Main Memory:
+access count: 541
+access time: 54100
+
+Access Count: 8144800
+Total Access Time (in cycles): 24503660
+AMAT:3.00488
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1300
+miss rate: 0.000160
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1667
+access time: 16670
+miss count: 384
+miss rate: 0.230354
+replacement count: 0
+prefetch count: 1667
+
+Main Memory:
+access count: 577
+access time: 57700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24508770
+AMAT:3.00527
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1549
+miss rate: 0.000190
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1944
+access time: 19440
+miss count: 356
+miss rate: 0.183128
+replacement count: 0
+prefetch count: 1944
+
+Main Memory:
+access count: 520
+access time: 52000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24505840
+AMAT:3.00538
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2229
+miss rate: 0.000274
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2824
+access time: 28240
+miss count: 400
+miss rate: 0.141643
+replacement count: 0
+prefetch count: 2824
+
+Main Memory:
+access count: 579
+access time: 57900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24520540
+AMAT:3.00661
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 52478
+miss rate: 0.006443
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 69439
+access time: 694390
+miss count: 1185
+miss rate: 0.017065
+replacement count: 0
+prefetch count: 69439
+
+Main Memory:
+access count: 1691
+access time: 169100
+
+Access Count: 8144800
+Total Access Time (in cycles): 25297890
+AMAT:3.07543
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 162773
+miss rate: 0.019985
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 216356
+access time: 2163560
+miss count: 1107
+miss rate: 0.005117
+replacement count: 0
+prefetch count: 216356
+
+Main Memory:
+access count: 1522
+access time: 152200
+
+Access Count: 8144800
+Total Access Time (in cycles): 26750160
+AMAT:3.21007
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 84975
+miss rate: 0.010433
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 124279
+access time: 1242790
+miss count: 550
+miss rate: 0.004426
+replacement count: 0
+prefetch count: 124279
+
+Main Memory:
+access count: 776
+access time: 77600
+
+Access Count: 8144800
+Total Access Time (in cycles): 25754790
+AMAT:3.10895
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 112652
+miss rate: 0.013831
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 163368
+access time: 1633680
+miss count: 898
+miss rate: 0.005497
+replacement count: 0
+prefetch count: 163368
+
+Main Memory:
+access count: 1226
+access time: 122600
+
+Access Count: 8144800
+Total Access Time (in cycles): 26190680
+AMAT:3.14591
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 3114
+miss rate: 0.000382
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 4048
+access time: 40480
+miss count: 579
+miss rate: 0.143034
+replacement count: 0
+prefetch count: 4048
+
+Main Memory:
+access count: 860
+access time: 86000
+
+Access Count: 8144800
+Total Access Time (in cycles): 24560880
+AMAT:3.00929
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2962
+miss rate: 0.000364
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 3355
+access time: 33550
+miss count: 473
+miss rate: 0.140984
+replacement count: 0
+prefetch count: 3355
+
+Main Memory:
+access count: 739
+access time: 73900
+
+Access Count: 8144800
+Total Access Time (in cycles): 24541850
+AMAT:3.00876
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 6292
+miss rate: 0.000773
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 7388
+access time: 73880
+miss count: 508
+miss rate: 0.068760
+replacement count: 0
+prefetch count: 7388
+
+Main Memory:
+access count: 758
+access time: 75800
+
+Access Count: 8144800
+Total Access Time (in cycles): 24584080
+AMAT:3.01304
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 8226
+miss rate: 0.001010
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 10401
+access time: 104010
+miss count: 700
+miss rate: 0.067301
+replacement count: 0
+prefetch count: 10401
+
+Main Memory:
+access count: 1084
+access time: 108400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24646810
+AMAT:3.0169
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 450
+miss rate: 0.000055
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 530
+access time: 5300
+miss count: 349
+miss rate: 0.658491
+replacement count: 0
+prefetch count: 530
+
+Main Memory:
+access count: 473
+access time: 47300
+
+Access Count: 8144800
+Total Access Time (in cycles): 24487000
+AMAT:3.00419
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 650
+miss rate: 0.000080
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 785
+access time: 7850
+miss count: 355
+miss rate: 0.452229
+replacement count: 0
+prefetch count: 785
+
+Main Memory:
+access count: 505
+access time: 50500
+
+Access Count: 8144800
+Total Access Time (in cycles): 24492750
+AMAT:3.00441
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 950
+miss rate: 0.000117
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1265
+access time: 12650
+miss count: 363
+miss rate: 0.286957
+replacement count: 0
+prefetch count: 1265
+
+Main Memory:
+access count: 535
+access time: 53500
+
+Access Count: 8144800
+Total Access Time (in cycles): 24500550
+AMAT:3.00451
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1150
+miss rate: 0.000141
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1495
+access time: 14950
+miss count: 363
+miss rate: 0.242809
+replacement count: 0
+prefetch count: 1495
+
+Main Memory:
+access count: 534
+access time: 53400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24502750
+AMAT:3.00484
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 1467
+miss rate: 0.000180
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 1921
+access time: 19210
+miss count: 403
+miss rate: 0.209787
+replacement count: 0
+prefetch count: 1921
+
+Main Memory:
+access count: 581
+access time: 58100
+
+Access Count: 8144800
+Total Access Time (in cycles): 24511710
+AMAT:3.00558
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 47315
+miss rate: 0.005809
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 62373
+access time: 623730
+miss count: 1214
+miss rate: 0.019464
+replacement count: 0
+prefetch count: 62373
+
+Main Memory:
+access count: 1770
+access time: 177000
+
+Access Count: 8144800
+Total Access Time (in cycles): 25235130
+AMAT:3.0694
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 106012
+miss rate: 0.013016
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 153454
+access time: 1534540
+miss count: 617
+miss rate: 0.004021
+replacement count: 0
+prefetch count: 153454
+
+Main Memory:
+access count: 859
+access time: 85900
+
+Access Count: 8144800
+Total Access Time (in cycles): 26054840
+AMAT:3.13539
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2306
+miss rate: 0.000283
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2665
+access time: 26650
+miss count: 422
+miss rate: 0.158349
+replacement count: 0
+prefetch count: 2665
+
+Main Memory:
+access count: 655
+access time: 65500
+
+Access Count: 8144800
+Total Access Time (in cycles): 24526550
+AMAT:3.00731
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 2518
+miss rate: 0.000309
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 2813
+access time: 28130
+miss count: 383
+miss rate: 0.136154
+replacement count: 0
+prefetch count: 2813
+
+Main Memory:
+access count: 558
+access time: 55800
+
+Access Count: 8144800
+Total Access Time (in cycles): 24518330
+AMAT:3.0073
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 5048
+miss rate: 0.000620
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 5927
+access time: 59270
+miss count: 430
+miss rate: 0.072549
+replacement count: 0
+prefetch count: 5927
+
+Main Memory:
+access count: 607
+access time: 60700
+
+Access Count: 8144800
+Total Access Time (in cycles): 24554370
+AMAT:3.01069
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 7738
+miss rate: 0.000950
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 9651
+access time: 96510
+miss count: 654
+miss rate: 0.067765
+replacement count: 0
+prefetch count: 9651
+
+Main Memory:
+access count: 914
+access time: 91400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24622310
+AMAT:3.01594
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 69575
+miss rate: 0.008542
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 77752
+access time: 777520
+miss count: 956
+miss rate: 0.012296
+replacement count: 0
+prefetch count: 77752
+
+Main Memory:
+access count: 1221
+access time: 122100
+
+Access Count: 8144800
+Total Access Time (in cycles): 25334020
+AMAT:3.09593
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 209455
+miss rate: 0.025716
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 265155
+access time: 2651550
+miss count: 2199
+miss rate: 0.008293
+replacement count: 0
+prefetch count: 265155
+
+Main Memory:
+access count: 2887
+access time: 288700
+
+Access Count: 8144800
+Total Access Time (in cycles): 27374650
+AMAT:3.27849
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 17325
+miss rate: 0.002127
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 19308
+access time: 193080
+miss count: 582
+miss rate: 0.030143
+replacement count: 0
+prefetch count: 19308
+
+Main Memory:
+access count: 864
+access time: 86400
+
+Access Count: 8144800
+Total Access Time (in cycles): 24713880
+AMAT:3.02768
+
+Input file: 02-stream-gem5-xaa.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 8144800
+access time: 24434400
+miss count: 7516
+miss rate: 0.000923
+replacement count: 0
+prefetch count: 8144800
+
+L2:
+access count: 8344
+access time: 83440
+miss count: 599
+miss rate: 0.071788
+replacement count: 0
+prefetch count: 8344
+
+Main Memory:
+access count: 863
+access time: 86300
+
+Access Count: 8144800
+Total Access Time (in cycles): 24604140
+AMAT:3.01585
+

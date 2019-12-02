@@ -1,0 +1,3100 @@
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2075913
+miss rate: 0.178488
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2449559
+access time: 24495590
+miss count: 611147
+miss rate: 0.249493
+replacement count: 0
+prefetch count: 2449559
+
+Main Memory:
+access count: 701759
+access time: 70175900
+
+Access Count: 11630550
+Total Access Time (in cycles): 129563140
+AMAT:9.23802
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2247476
+miss rate: 0.193239
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2618706
+access time: 26187060
+miss count: 612017
+miss rate: 0.233710
+replacement count: 0
+prefetch count: 2618706
+
+Main Memory:
+access count: 696716
+access time: 69671600
+
+Access Count: 11630550
+Total Access Time (in cycles): 130750310
+AMAT:9.44857
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2305263
+miss rate: 0.198208
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2694068
+access time: 26940680
+miss count: 616524
+miss rate: 0.228845
+replacement count: 0
+prefetch count: 2694068
+
+Main Memory:
+access count: 697441
+access time: 69744100
+
+Access Count: 11630550
+Total Access Time (in cycles): 131576430
+AMAT:9.51796
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2312249
+miss rate: 0.198808
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2697060
+access time: 26970600
+miss count: 626401
+miss rate: 0.232253
+replacement count: 0
+prefetch count: 2697060
+
+Main Memory:
+access count: 704289
+access time: 70428900
+
+Access Count: 11630550
+Total Access Time (in cycles): 132291150
+AMAT:9.60547
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2343825
+miss rate: 0.201523
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2737507
+access time: 27375070
+miss count: 634533
+miss rate: 0.231792
+replacement count: 0
+prefetch count: 2737507
+
+Main Memory:
+access count: 710267
+access time: 71026700
+
+Access Count: 11630550
+Total Access Time (in cycles): 133293420
+AMAT:9.68638
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2327299
+miss rate: 0.200102
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2716075
+access time: 27160750
+miss count: 643075
+miss rate: 0.236766
+replacement count: 0
+prefetch count: 2716075
+
+Main Memory:
+access count: 717771
+access time: 71777100
+
+Access Count: 11630550
+Total Access Time (in cycles): 133829500
+AMAT:9.73877
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2350327
+miss rate: 0.202082
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2743903
+access time: 27439030
+miss count: 648545
+miss rate: 0.236359
+replacement count: 0
+prefetch count: 2743903
+
+Main Memory:
+access count: 721139
+access time: 72113900
+
+Access Count: 11630550
+Total Access Time (in cycles): 134444580
+AMAT:9.79721
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2357162
+miss rate: 0.202670
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2745933
+access time: 27459330
+miss count: 647400
+miss rate: 0.235767
+replacement count: 0
+prefetch count: 2745933
+
+Main Memory:
+access count: 717890
+access time: 71789000
+
+Access Count: 11630550
+Total Access Time (in cycles): 134139980
+AMAT:9.80498
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2344972
+miss rate: 0.201622
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2735645
+access time: 27356450
+miss count: 609846
+miss rate: 0.222926
+replacement count: 0
+prefetch count: 2735645
+
+Main Memory:
+access count: 677637
+access time: 67763700
+
+Access Count: 11630550
+Total Access Time (in cycles): 130011800
+AMAT:9.51089
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2352895
+miss rate: 0.202303
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2743506
+access time: 27435060
+miss count: 571175
+miss rate: 0.208192
+replacement count: 0
+prefetch count: 2743506
+
+Main Memory:
+access count: 637174
+access time: 63717400
+
+Access Count: 11630550
+Total Access Time (in cycles): 126044110
+AMAT:9.23481
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2356160
+miss rate: 0.202584
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2745641
+access time: 27456410
+miss count: 518204
+miss rate: 0.188737
+replacement count: 0
+prefetch count: 2745641
+
+Main Memory:
+access count: 580847
+access time: 58084700
+
+Access Count: 11630550
+Total Access Time (in cycles): 120432760
+AMAT:8.84934
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2358417
+miss rate: 0.202778
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2747556
+access time: 27475560
+miss count: 461319
+miss rate: 0.167902
+replacement count: 0
+prefetch count: 2747556
+
+Main Memory:
+access count: 519638
+access time: 51963800
+
+Access Count: 11630550
+Total Access Time (in cycles): 114331010
+AMAT:8.43245
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2345625
+miss rate: 0.201678
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2724782
+access time: 27247820
+miss count: 405493
+miss rate: 0.148817
+replacement count: 0
+prefetch count: 2724782
+
+Main Memory:
+access count: 461855
+access time: 46185500
+
+Access Count: 11630550
+Total Access Time (in cycles): 108324970
+AMAT:8.01808
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2377299
+miss rate: 0.204401
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2769495
+access time: 27694950
+miss count: 347089
+miss rate: 0.125326
+replacement count: 0
+prefetch count: 2769495
+
+Main Memory:
+access count: 398125
+access time: 39812500
+
+Access Count: 11630550
+Total Access Time (in cycles): 102399100
+AMAT:7.60569
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2249799
+miss rate: 0.193439
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2557490
+access time: 25574900
+miss count: 301734
+miss rate: 0.117981
+replacement count: 0
+prefetch count: 2557490
+
+Main Memory:
+access count: 349060
+access time: 34906000
+
+Access Count: 11630550
+Total Access Time (in cycles): 95372550
+AMAT:7.21659
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1937395
+miss rate: 0.166578
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2127326
+access time: 21273260
+miss count: 608076
+miss rate: 0.285841
+replacement count: 0
+prefetch count: 2127326
+
+Main Memory:
+access count: 689306
+access time: 68930600
+
+Access Count: 11630550
+Total Access Time (in cycles): 125095510
+AMAT:9.42726
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2174372
+miss rate: 0.186953
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2383166
+access time: 23831660
+miss count: 622152
+miss rate: 0.261061
+replacement count: 0
+prefetch count: 2383166
+
+Main Memory:
+access count: 696164
+access time: 69616400
+
+Access Count: 11630550
+Total Access Time (in cycles): 128339710
+AMAT:9.75016
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2248050
+miss rate: 0.193288
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2452136
+access time: 24521360
+miss count: 637847
+miss rate: 0.260119
+replacement count: 0
+prefetch count: 2452136
+
+Main Memory:
+access count: 707115
+access time: 70711500
+
+Access Count: 11630550
+Total Access Time (in cycles): 130124510
+AMAT:9.96068
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2278770
+miss rate: 0.195930
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2503193
+access time: 25031930
+miss count: 636888
+miss rate: 0.254430
+replacement count: 0
+prefetch count: 2503193
+
+Main Memory:
+access count: 701176
+access time: 70117600
+
+Access Count: 11630550
+Total Access Time (in cycles): 130041180
+AMAT:9.94434
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2298080
+miss rate: 0.197590
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2511532
+access time: 25115320
+miss count: 550905
+miss rate: 0.219350
+replacement count: 0
+prefetch count: 2511532
+
+Main Memory:
+access count: 607833
+access time: 60783300
+
+Access Count: 11630550
+Total Access Time (in cycles): 120790270
+AMAT:9.31004
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2288733
+miss rate: 0.196786
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2492506
+access time: 24925060
+miss count: 451033
+miss rate: 0.180956
+replacement count: 0
+prefetch count: 2492506
+
+Main Memory:
+access count: 498759
+access time: 49875900
+
+Access Count: 11630550
+Total Access Time (in cycles): 109692610
+AMAT:8.52882
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2333702
+miss rate: 0.200653
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2547587
+access time: 25475870
+miss count: 350855
+miss rate: 0.137721
+replacement count: 0
+prefetch count: 2547587
+
+Main Memory:
+access count: 390877
+access time: 39087700
+
+Access Count: 11630550
+Total Access Time (in cycles): 99455220
+AMAT:7.76993
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1932128
+miss rate: 0.166125
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2132681
+access time: 21326810
+miss count: 269813
+miss rate: 0.126514
+replacement count: 0
+prefetch count: 2132681
+
+Main Memory:
+access count: 302495
+access time: 30249500
+
+Access Count: 11630550
+Total Access Time (in cycles): 86467960
+AMAT:6.76296
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2296989
+miss rate: 0.197496
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2519368
+access time: 25193680
+miss count: 282623
+miss rate: 0.112180
+replacement count: 0
+prefetch count: 2519368
+
+Main Memory:
+access count: 315425
+access time: 31542500
+
+Access Count: 11630550
+Total Access Time (in cycles): 91627830
+AMAT:7.19048
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2329597
+miss rate: 0.200300
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2540261
+access time: 25402610
+miss count: 333521
+miss rate: 0.131294
+replacement count: 0
+prefetch count: 2540261
+
+Main Memory:
+access count: 370013
+access time: 37001300
+
+Access Count: 11630550
+Total Access Time (in cycles): 97295560
+AMAT:7.63281
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2324779
+miss rate: 0.199886
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2548265
+access time: 25482650
+miss count: 379348
+miss rate: 0.148865
+replacement count: 0
+prefetch count: 2548265
+
+Main Memory:
+access count: 419199
+access time: 41919900
+
+Access Count: 11630550
+Total Access Time (in cycles): 102294200
+AMAT:7.97446
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2308700
+miss rate: 0.198503
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2515590
+access time: 25155900
+miss count: 409235
+miss rate: 0.162680
+replacement count: 0
+prefetch count: 2515590
+
+Main Memory:
+access count: 450991
+access time: 45099100
+
+Access Count: 11630550
+Total Access Time (in cycles): 105146650
+AMAT:8.21427
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2323031
+miss rate: 0.199735
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2538960
+access time: 25389600
+miss count: 376202
+miss rate: 0.148172
+replacement count: 0
+prefetch count: 2538960
+
+Main Memory:
+access count: 417590
+access time: 41759000
+
+Access Count: 11630550
+Total Access Time (in cycles): 102040250
+AMAT:7.95686
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2335818
+miss rate: 0.200835
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2532094
+access time: 25320940
+miss count: 306338
+miss rate: 0.120982
+replacement count: 0
+prefetch count: 2532094
+
+Main Memory:
+access count: 344281
+access time: 34428100
+
+Access Count: 11630550
+Total Access Time (in cycles): 94640690
+AMAT:7.43809
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1888775
+miss rate: 0.162398
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2076167
+access time: 20761670
+miss count: 239162
+miss rate: 0.115194
+replacement count: 0
+prefetch count: 2076167
+
+Main Memory:
+access count: 272824
+access time: 27282400
+
+Access Count: 11630550
+Total Access Time (in cycles): 82935720
+AMAT:6.4947
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1937060
+miss rate: 0.166549
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2083204
+access time: 20832040
+miss count: 612244
+miss rate: 0.293895
+replacement count: 0
+prefetch count: 2083204
+
+Main Memory:
+access count: 688524
+access time: 68852400
+
+Access Count: 11630550
+Total Access Time (in cycles): 124576090
+AMAT:9.5603
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2207556
+miss rate: 0.189807
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2368817
+access time: 23688170
+miss count: 636527
+miss rate: 0.268711
+replacement count: 0
+prefetch count: 2368817
+
+Main Memory:
+access count: 705316
+access time: 70531600
+
+Access Count: 11630550
+Total Access Time (in cycles): 129111420
+AMAT:9.99838
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2236746
+miss rate: 0.192316
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2384653
+access time: 23846530
+miss count: 589272
+miss rate: 0.247110
+replacement count: 0
+prefetch count: 2384653
+
+Main Memory:
+access count: 647867
+access time: 64786700
+
+Access Count: 11630550
+Total Access Time (in cycles): 123524880
+AMAT:9.6755
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2313041
+miss rate: 0.198876
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2468077
+access time: 24680770
+miss count: 444264
+miss rate: 0.180004
+replacement count: 0
+prefetch count: 2468077
+
+Main Memory:
+access count: 489879
+access time: 48987900
+
+Access Count: 11630550
+Total Access Time (in cycles): 108560320
+AMAT:8.56862
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2297392
+miss rate: 0.197531
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2448887
+access time: 24488870
+miss count: 303006
+miss rate: 0.123732
+replacement count: 0
+prefetch count: 2448887
+
+Main Memory:
+access count: 337811
+access time: 33781100
+
+Access Count: 11630550
+Total Access Time (in cycles): 93161620
+AMAT:7.4194
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2279669
+miss rate: 0.196007
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2431106
+access time: 24311060
+miss count: 254216
+miss rate: 0.104568
+replacement count: 0
+prefetch count: 2431106
+
+Main Memory:
+access count: 283788
+access time: 28378800
+
+Access Count: 11630550
+Total Access Time (in cycles): 87581510
+AMAT:7.00968
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2331006
+miss rate: 0.200421
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2478484
+access time: 24784840
+miss count: 243520
+miss rate: 0.098254
+replacement count: 0
+prefetch count: 2478484
+
+Main Memory:
+access count: 271362
+access time: 27136200
+
+Access Count: 11630550
+Total Access Time (in cycles): 86812690
+AMAT:6.97342
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1648923
+miss rate: 0.141775
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1788152
+access time: 17881520
+miss count: 241249
+miss rate: 0.134915
+replacement count: 0
+prefetch count: 1788152
+
+Main Memory:
+access count: 267915
+access time: 26791500
+
+Access Count: 11630550
+Total Access Time (in cycles): 79564670
+AMAT:6.33051
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2308325
+miss rate: 0.198471
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2458544
+access time: 24585440
+miss count: 227325
+miss rate: 0.092463
+replacement count: 0
+prefetch count: 2458544
+
+Main Memory:
+access count: 253008
+access time: 25300800
+
+Access Count: 11630550
+Total Access Time (in cycles): 84777890
+AMAT:6.81983
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2299400
+miss rate: 0.197703
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2449362
+access time: 24493620
+miss count: 211051
+miss rate: 0.086166
+replacement count: 0
+prefetch count: 2449362
+
+Main Memory:
+access count: 235199
+access time: 23519900
+
+Access Count: 11630550
+Total Access Time (in cycles): 82905170
+AMAT:6.68056
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2050315
+miss rate: 0.176287
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2213269
+access time: 22132690
+miss count: 229001
+miss rate: 0.103467
+replacement count: 0
+prefetch count: 2213269
+
+Main Memory:
+access count: 255678
+access time: 25567800
+
+Access Count: 11630550
+Total Access Time (in cycles): 82592140
+AMAT:6.58686
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2304180
+miss rate: 0.198114
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2451066
+access time: 24510660
+miss count: 232031
+miss rate: 0.094665
+replacement count: 0
+prefetch count: 2451066
+
+Main Memory:
+access count: 258771
+access time: 25877100
+
+Access Count: 11630550
+Total Access Time (in cycles): 85279410
+AMAT:6.8566
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2360218
+miss rate: 0.202933
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2521887
+access time: 25218870
+miss count: 284485
+miss rate: 0.112806
+replacement count: 0
+prefetch count: 2521887
+
+Main Memory:
+access count: 313931
+access time: 31393100
+
+Access Count: 11630550
+Total Access Time (in cycles): 91503620
+AMAT:7.31854
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2371067
+miss rate: 0.203865
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2522792
+access time: 25227920
+miss count: 285849
+miss rate: 0.113307
+replacement count: 0
+prefetch count: 2522792
+
+Main Memory:
+access count: 316973
+access time: 31697300
+
+Access Count: 11630550
+Total Access Time (in cycles): 91816870
+AMAT:7.34858
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1843801
+miss rate: 0.158531
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1986160
+access time: 19861600
+miss count: 224735
+miss rate: 0.113151
+replacement count: 0
+prefetch count: 1986160
+
+Main Memory:
+access count: 253267
+access time: 25326700
+
+Access Count: 11630550
+Total Access Time (in cycles): 80079950
+AMAT:6.37909
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 1
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1940767
+miss rate: 0.166868
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2062979
+access time: 20629790
+miss count: 621637
+miss rate: 0.301330
+replacement count: 0
+prefetch count: 2062979
+
+Main Memory:
+access count: 693142
+access time: 69314200
+
+Access Count: 11630550
+Total Access Time (in cycles): 124835640
+AMAT:9.69691
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 2
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2214309
+miss rate: 0.190387
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2345349
+access time: 23453490
+miss count: 640812
+miss rate: 0.273227
+replacement count: 0
+prefetch count: 2345349
+
+Main Memory:
+access count: 704228
+access time: 70422800
+
+Access Count: 11630550
+Total Access Time (in cycles): 128767940
+AMAT:10.1058
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 3
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2254388
+miss rate: 0.193833
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2372198
+access time: 23721980
+miss count: 446700
+miss rate: 0.188306
+replacement count: 0
+prefetch count: 2372198
+
+Main Memory:
+access count: 492309
+access time: 49230900
+
+Access Count: 11630550
+Total Access Time (in cycles): 107844530
+AMAT:8.58834
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 4
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1838944
+miss rate: 0.158113
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1955811
+access time: 19558110
+miss count: 266730
+miss rate: 0.136378
+replacement count: 0
+prefetch count: 1955811
+
+Main Memory:
+access count: 298587
+access time: 29858700
+
+Access Count: 11630550
+Total Access Time (in cycles): 84308460
+AMAT:6.73745
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 5
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1967218
+miss rate: 0.169142
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2081029
+access time: 20810290
+miss count: 238098
+miss rate: 0.114414
+replacement count: 0
+prefetch count: 2081029
+
+Main Memory:
+access count: 266365
+access time: 26636500
+
+Access Count: 11630550
+Total Access Time (in cycles): 82338440
+AMAT:6.62664
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 6
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2271546
+miss rate: 0.195309
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2387138
+access time: 23871380
+miss count: 227269
+miss rate: 0.095206
+replacement count: 0
+prefetch count: 2387138
+
+Main Memory:
+access count: 253089
+access time: 25308900
+
+Access Count: 11630550
+Total Access Time (in cycles): 84071930
+AMAT:6.81253
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 7
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2334089
+miss rate: 0.200686
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2456135
+access time: 24561350
+miss count: 200836
+miss rate: 0.081769
+replacement count: 0
+prefetch count: 2456135
+
+Main Memory:
+access count: 223542
+access time: 22354200
+
+Access Count: 11630550
+Total Access Time (in cycles): 81807200
+AMAT:6.64785
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 8
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1569037
+miss rate: 0.134907
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1680516
+access time: 16805160
+miss count: 180521
+miss rate: 0.107420
+replacement count: 0
+prefetch count: 1680516
+
+Main Memory:
+access count: 200788
+access time: 20078800
+
+Access Count: 11630550
+Total Access Time (in cycles): 71775610
+AMAT:5.79823
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 9
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2318889
+miss rate: 0.199379
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2436458
+access time: 24364580
+miss count: 192347
+miss rate: 0.078945
+replacement count: 0
+prefetch count: 2436458
+
+Main Memory:
+access count: 214000
+access time: 21400000
+
+Access Count: 11630550
+Total Access Time (in cycles): 80656230
+AMAT:6.5678
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 10
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2218368
+miss rate: 0.190736
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2333104
+access time: 23331040
+miss count: 186420
+miss rate: 0.079902
+replacement count: 0
+prefetch count: 2333104
+
+Main Memory:
+access count: 207191
+access time: 20719100
+
+Access Count: 11630550
+Total Access Time (in cycles): 78941790
+AMAT:6.43139
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 11
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2041244
+miss rate: 0.175507
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2167811
+access time: 21678110
+miss count: 197030
+miss rate: 0.090889
+replacement count: 0
+prefetch count: 2167811
+
+Main Memory:
+access count: 218975
+access time: 21897500
+
+Access Count: 11630550
+Total Access Time (in cycles): 78467260
+AMAT:6.35024
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 12
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1895512
+miss rate: 0.162977
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2006549
+access time: 20065490
+miss count: 201357
+miss rate: 0.100350
+replacement count: 0
+prefetch count: 2006549
+
+Main Memory:
+access count: 224383
+access time: 22438300
+
+Access Count: 11630550
+Total Access Time (in cycles): 77395440
+AMAT:6.26524
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 13
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2369565
+miss rate: 0.203736
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2499626
+access time: 24996260
+miss count: 209233
+miss rate: 0.083706
+replacement count: 0
+prefetch count: 2499626
+
+Main Memory:
+access count: 232844
+access time: 23284400
+
+Access Count: 11630550
+Total Access Time (in cycles): 83172310
+AMAT:6.74275
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 14
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2388484
+miss rate: 0.205363
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2513963
+access time: 25139630
+miss count: 248192
+miss rate: 0.098725
+replacement count: 0
+prefetch count: 2513963
+
+Main Memory:
+access count: 273710
+access time: 27371000
+
+Access Count: 11630550
+Total Access Time (in cycles): 87402280
+AMAT:7.08108
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 15
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1857495
+miss rate: 0.159708
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1972007
+access time: 19720070
+miss count: 215528
+miss rate: 0.109294
+replacement count: 0
+prefetch count: 1972007
+
+Main Memory:
+access count: 240818
+access time: 24081800
+
+Access Count: 11630550
+Total Access Time (in cycles): 78693520
+AMAT:6.34259
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 16
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1911159
+miss rate: 0.164322
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2294734
+access time: 22947340
+miss count: 259688
+miss rate: 0.113167
+replacement count: 0
+prefetch count: 2294734
+
+Main Memory:
+access count: 303261
+access time: 30326100
+
+Access Count: 11630550
+Total Access Time (in cycles): 88165090
+AMAT:6.50281
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 17
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2023858
+miss rate: 0.174012
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2384069
+access time: 23840690
+miss count: 289509
+miss rate: 0.121435
+replacement count: 0
+prefetch count: 2384069
+
+Main Memory:
+access count: 335496
+access time: 33549600
+
+Access Count: 11630550
+Total Access Time (in cycles): 92281940
+AMAT:6.85324
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 18
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2353315
+miss rate: 0.202339
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2742746
+access time: 27427460
+miss count: 333575
+miss rate: 0.121621
+replacement count: 0
+prefetch count: 2742746
+
+Main Memory:
+access count: 382017
+access time: 38201700
+
+Access Count: 11630550
+Total Access Time (in cycles): 100520810
+AMAT:7.48426
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 19
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2350421
+miss rate: 0.202090
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2738261
+access time: 27382610
+miss count: 382934
+miss rate: 0.139846
+replacement count: 0
+prefetch count: 2738261
+
+Main Memory:
+access count: 434922
+access time: 43492200
+
+Access Count: 11630550
+Total Access Time (in cycles): 105766460
+AMAT:7.84705
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 20
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2389822
+miss rate: 0.205478
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2788256
+access time: 27882560
+miss count: 443218
+miss rate: 0.158959
+replacement count: 0
+prefetch count: 2788256
+
+Main Memory:
+access count: 499368
+access time: 49936800
+
+Access Count: 11630550
+Total Access Time (in cycles): 112711010
+AMAT:8.32103
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 21
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2376937
+miss rate: 0.204370
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2770446
+access time: 27704460
+miss count: 498404
+miss rate: 0.179900
+replacement count: 0
+prefetch count: 2770446
+
+Main Memory:
+access count: 558389
+access time: 55838900
+
+Access Count: 11630550
+Total Access Time (in cycles): 118435010
+AMAT:8.72033
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 22
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2385692
+miss rate: 0.205123
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2779233
+access time: 27792330
+miss count: 556988
+miss rate: 0.200411
+replacement count: 0
+prefetch count: 2779233
+
+Main Memory:
+access count: 621590
+access time: 62159000
+
+Access Count: 11630550
+Total Access Time (in cycles): 124842980
+AMAT:9.16211
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 23
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2387581
+miss rate: 0.205285
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2779273
+access time: 27792730
+miss count: 603773
+miss rate: 0.217241
+replacement count: 0
+prefetch count: 2779273
+
+Main Memory:
+access count: 671296
+access time: 67129600
+
+Access Count: 11630550
+Total Access Time (in cycles): 129813980
+AMAT:9.5125
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 24
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2384933
+miss rate: 0.205058
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2780304
+access time: 27803040
+miss count: 615820
+miss rate: 0.221494
+replacement count: 0
+prefetch count: 2780304
+
+Main Memory:
+access count: 683428
+access time: 68342800
+
+Access Count: 11630550
+Total Access Time (in cycles): 131037490
+AMAT:9.59247
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 1
+Prefetch Stride: 25
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2392699
+miss rate: 0.205725
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2787972
+access time: 27879720
+miss count: 609669
+miss rate: 0.218678
+replacement count: 0
+prefetch count: 2787972
+
+Main Memory:
+access count: 678356
+access time: 67835600
+
+Access Count: 11630550
+Total Access Time (in cycles): 130606970
+AMAT:9.55602
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 16
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1598763
+miss rate: 0.137462
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1789989
+access time: 17899890
+miss count: 204044
+miss rate: 0.113992
+replacement count: 0
+prefetch count: 1789989
+
+Main Memory:
+access count: 234951
+access time: 23495100
+
+Access Count: 11630550
+Total Access Time (in cycles): 76286640
+AMAT:5.94158
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 17
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1988868
+miss rate: 0.171004
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2194564
+access time: 21945640
+miss count: 253542
+miss rate: 0.115532
+replacement count: 0
+prefetch count: 2194564
+
+Main Memory:
+access count: 288729
+access time: 28872900
+
+Access Count: 11630550
+Total Access Time (in cycles): 85710190
+AMAT:6.68568
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 18
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2321185
+miss rate: 0.199577
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2528335
+access time: 25283350
+miss count: 317694
+miss rate: 0.125653
+replacement count: 0
+prefetch count: 2528335
+
+Main Memory:
+access count: 355772
+access time: 35577200
+
+Access Count: 11630550
+Total Access Time (in cycles): 95752200
+AMAT:7.50351
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 19
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2332453
+miss rate: 0.200545
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2557604
+access time: 25576040
+miss count: 378780
+miss rate: 0.148100
+replacement count: 0
+prefetch count: 2557604
+
+Main Memory:
+access count: 419747
+access time: 41974700
+
+Access Count: 11630550
+Total Access Time (in cycles): 102442390
+AMAT:7.97552
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 20
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2380793
+miss rate: 0.204702
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2593099
+access time: 25930990
+miss count: 410912
+miss rate: 0.158464
+replacement count: 0
+prefetch count: 2593099
+
+Main Memory:
+access count: 452737
+access time: 45273700
+
+Access Count: 11630550
+Total Access Time (in cycles): 106096340
+AMAT:8.29079
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 21
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2363815
+miss rate: 0.203242
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2576564
+access time: 25765640
+miss count: 384169
+miss rate: 0.149101
+replacement count: 0
+prefetch count: 2576564
+
+Main Memory:
+access count: 425292
+access time: 42529200
+
+Access Count: 11630550
+Total Access Time (in cycles): 103186490
+AMAT:8.06278
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 22
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2397587
+miss rate: 0.206146
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2611515
+access time: 26115150
+miss count: 343152
+miss rate: 0.131400
+replacement count: 0
+prefetch count: 2611515
+
+Main Memory:
+access count: 380366
+access time: 38036600
+
+Access Count: 11630550
+Total Access Time (in cycles): 99043400
+AMAT:7.7702
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 23
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2381401
+miss rate: 0.204754
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2592331
+access time: 25923310
+miss count: 291116
+miss rate: 0.112299
+replacement count: 0
+prefetch count: 2592331
+
+Main Memory:
+access count: 325545
+access time: 32554500
+
+Access Count: 11630550
+Total Access Time (in cycles): 93369460
+AMAT:7.3469
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 24
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1925418
+miss rate: 0.165548
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2130761
+access time: 21307610
+miss count: 277399
+miss rate: 0.130188
+replacement count: 0
+prefetch count: 2130761
+
+Main Memory:
+access count: 311627
+access time: 31162700
+
+Access Count: 11630550
+Total Access Time (in cycles): 87361960
+AMAT:6.81072
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 2
+Prefetch Stride: 25
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2384116
+miss rate: 0.204987
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2602631
+access time: 26026310
+miss count: 287968
+miss rate: 0.110645
+replacement count: 0
+prefetch count: 2602631
+
+Main Memory:
+access count: 322662
+access time: 32266200
+
+Access Count: 11630550
+Total Access Time (in cycles): 93184160
+AMAT:7.31796
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 16
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1584390
+miss rate: 0.136227
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1728578
+access time: 17285780
+miss count: 174059
+miss rate: 0.100695
+replacement count: 0
+prefetch count: 1728578
+
+Main Memory:
+access count: 198701
+access time: 19870100
+
+Access Count: 11630550
+Total Access Time (in cycles): 72047530
+AMAT:5.734
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 17
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2034363
+miss rate: 0.174915
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2196225
+access time: 21962250
+miss count: 235289
+miss rate: 0.107133
+replacement count: 0
+prefetch count: 2196225
+
+Main Memory:
+access count: 264211
+access time: 26421100
+
+Access Count: 11630550
+Total Access Time (in cycles): 83275000
+AMAT:6.62308
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 18
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2324679
+miss rate: 0.199877
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2477451
+access time: 24774510
+miss count: 303467
+miss rate: 0.122492
+replacement count: 0
+prefetch count: 2477451
+
+Main Memory:
+access count: 335460
+access time: 33546000
+
+Access Count: 11630550
+Total Access Time (in cycles): 93212160
+AMAT:7.4471
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 19
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2380868
+miss rate: 0.204708
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2540399
+access time: 25403990
+miss count: 287037
+miss rate: 0.112989
+replacement count: 0
+prefetch count: 2540399
+
+Main Memory:
+access count: 317001
+access time: 31700100
+
+Access Count: 11630550
+Total Access Time (in cycles): 91995740
+AMAT:7.36006
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 20
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2369171
+miss rate: 0.203702
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2522219
+access time: 25222190
+miss count: 225345
+miss rate: 0.089344
+replacement count: 0
+prefetch count: 2522219
+
+Main Memory:
+access count: 252093
+access time: 25209300
+
+Access Count: 11630550
+Total Access Time (in cycles): 85323140
+AMAT:6.85698
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 21
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2384561
+miss rate: 0.205026
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2540829
+access time: 25408290
+miss count: 239758
+miss rate: 0.094362
+replacement count: 0
+prefetch count: 2540829
+
+Main Memory:
+access count: 267426
+access time: 26742600
+
+Access Count: 11630550
+Total Access Time (in cycles): 87042540
+AMAT:6.98492
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 22
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2411079
+miss rate: 0.207306
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2569046
+access time: 25690460
+miss count: 253639
+miss rate: 0.098729
+replacement count: 0
+prefetch count: 2569046
+
+Main Memory:
+access count: 282694
+access time: 28269400
+
+Access Count: 11630550
+Total Access Time (in cycles): 88851510
+AMAT:7.11976
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 23
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2410592
+miss rate: 0.207264
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2568595
+access time: 25685950
+miss count: 256439
+miss rate: 0.099836
+replacement count: 0
+prefetch count: 2568595
+
+Main Memory:
+access count: 285618
+access time: 28561800
+
+Access Count: 11630550
+Total Access Time (in cycles): 89139400
+AMAT:7.14188
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 24
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1650915
+miss rate: 0.141946
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1797421
+access time: 17974210
+miss count: 251261
+miss rate: 0.139790
+replacement count: 0
+prefetch count: 1797421
+
+Main Memory:
+access count: 280026
+access time: 28002600
+
+Access Count: 11630550
+Total Access Time (in cycles): 80868460
+AMAT:6.40373
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 3
+Prefetch Stride: 25
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2434767
+miss rate: 0.209342
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2596172
+access time: 25961720
+miss count: 251401
+miss rate: 0.096835
+replacement count: 0
+prefetch count: 2596172
+
+Main Memory:
+access count: 280470
+access time: 28047000
+
+Access Count: 11630550
+Total Access Time (in cycles): 88900370
+AMAT:7.1206
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 16
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1598283
+miss rate: 0.137421
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1715851
+access time: 17158510
+miss count: 160173
+miss rate: 0.093349
+replacement count: 0
+prefetch count: 1715851
+
+Main Memory:
+access count: 181795
+access time: 18179500
+
+Access Count: 11630550
+Total Access Time (in cycles): 70229660
+AMAT:5.65702
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 17
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2064698
+miss rate: 0.177524
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2198863
+access time: 21988630
+miss count: 227489
+miss rate: 0.103458
+replacement count: 0
+prefetch count: 2198863
+
+Main Memory:
+access count: 253461
+access time: 25346100
+
+Access Count: 11630550
+Total Access Time (in cycles): 82226380
+AMAT:6.61185
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 18
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2362387
+miss rate: 0.203119
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2483269
+access time: 24832690
+miss count: 260470
+miss rate: 0.104890
+replacement count: 0
+prefetch count: 2483269
+
+Main Memory:
+access count: 286667
+access time: 28666700
+
+Access Count: 11630550
+Total Access Time (in cycles): 88391040
+AMAT:7.16171
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 19
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2404901
+miss rate: 0.206774
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2528908
+access time: 25289080
+miss count: 217407
+miss rate: 0.085969
+replacement count: 0
+prefetch count: 2528908
+
+Main Memory:
+access count: 241551
+access time: 24155100
+
+Access Count: 11630550
+Total Access Time (in cycles): 84335830
+AMAT:6.84536
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 20
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1991007
+miss rate: 0.171188
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2106652
+access time: 21066520
+miss count: 207904
+miss rate: 0.098689
+replacement count: 0
+prefetch count: 2106652
+
+Main Memory:
+access count: 230754
+access time: 23075400
+
+Access Count: 11630550
+Total Access Time (in cycles): 79033570
+AMAT:6.40132
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 21
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2096511
+miss rate: 0.180259
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2215684
+access time: 22156840
+miss count: 204595
+miss rate: 0.092339
+replacement count: 0
+prefetch count: 2215684
+
+Main Memory:
+access count: 227263
+access time: 22726300
+
+Access Count: 11630550
+Total Access Time (in cycles): 79774790
+AMAT:6.46709
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 22
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2432817
+miss rate: 0.209175
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2557146
+access time: 25571460
+miss count: 206333
+miss rate: 0.080689
+replacement count: 0
+prefetch count: 2557146
+
+Main Memory:
+access count: 229730
+access time: 22973000
+
+Access Count: 11630550
+Total Access Time (in cycles): 83436110
+AMAT:6.77955
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 23
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2427116
+miss rate: 0.208685
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2553090
+access time: 25530900
+miss count: 214696
+miss rate: 0.084093
+replacement count: 0
+prefetch count: 2553090
+
+Main Memory:
+access count: 239008
+access time: 23900800
+
+Access Count: 11630550
+Total Access Time (in cycles): 84323350
+AMAT:6.84173
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 24
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 1631956
+miss rate: 0.140316
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 1744357
+access time: 17443570
+miss count: 225556
+miss rate: 0.129306
+replacement count: 0
+prefetch count: 1744357
+
+Main Memory:
+access count: 250283
+access time: 25028300
+
+Access Count: 11630550
+Total Access Time (in cycles): 77363520
+AMAT:6.21754
+
+Input file: 01-mcf-gem5-xcg.trace
+Number of iteration rounds:50
+Workset length: 50
+Prefetch lines: 4
+Prefetch Stride: 25
+Enable optimization metrics
+
+L1:
+access count: 11630550
+access time: 34891650
+miss count: 2449113
+miss rate: 0.210576
+replacement count: 0
+prefetch count: 11630550
+
+L2:
+access count: 2572210
+access time: 25722100
+miss count: 232692
+miss rate: 0.090464
+replacement count: 0
+prefetch count: 2572210
+
+Main Memory:
+access count: 258044
+access time: 25804400
+
+Access Count: 11630550
+Total Access Time (in cycles): 86418150
+AMAT:7.01071
+

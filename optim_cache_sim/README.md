@@ -10,7 +10,7 @@ The simulator is implemented as a two-level cache, *i.e.*, a L1 cache and anothe
 | :------: | :------: | :-----------: | :--------: | :-------------------------: | :---------: | :---------: |
 | L1 Cache |   32KB   |       8       |    64B     | write back + write allocate |      0      |  3 cycles   |
 | L2 Cache |  256KB   |       8       |    64B     | write back + write allocate |  6 cycles   |  4 cycles   |
-|  Memory  | $\infty$ |       -       |     -      |              -              |      0      | 100 cycles  |
+|  Memory  |   inf    |       -       |     -      |              -              |      0      | 100 cycles  |
 
 The frequency of CPU and memory are set to 2Ghz. The replacement policy of cache is set to workset policy. L1 and L2 caches use prefetch algorithm to reduce cache misses.
 
@@ -54,10 +54,10 @@ The frequency of CPU and memory are set to 2Ghz. The replacement policy of cache
    Optional arguments:
 
    ```bash
-   -l			workset length (default: 50)
-   -p			the number of prefetch lines (default: 4)
-   -s			prefetch stride (default: 16)
-   --no_optim	disable the optimization metrics used in this simulator, i.e., workset 			   policy and prefetch. Instead, LRU will be used as replacement policy. 			 This option can be used to testify the efficacy of these optimization 				metrics.
+   -l			   workset length (default: 50)
+   -p			   the number of prefetch lines (default: 4)
+   -s			   prefetch stride (default: 16)
+   --no_optim	disable the optimization metrics used in this simulator, i.e., workset policy and prefetch. Instead, LRU will be used as                replacement policy. This option can be used to testify the efficacy of these optimization metrics.
    ```
 
    P.S. This simulator uses C function ``getopt`` to read command-line arguments. Therefore, in order to input optional short arguments, *i.e.*, ``-l``, ``-p`` or ``-s``, you should omit the blank space between the argument label and its value. That is to say, type ``-l50`` instead of ``-l 50``.

@@ -10,3 +10,5 @@ Labs of Computer Architechture.
 ``simple_cache_sim``: A single-level cache simulator.
 
 ``optim_cache_sim``: A two-level cache simulator with optimization metrics.
+
+``yuv_accelerator``: Using SIMD instructions to accelerate YUV image processing.
